@@ -1852,7 +1852,9 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>unfiled$public/Grainger_2_SFDX_Xx0</members>
         <members>unfiled$public/Grainger_Public_IHL</members>
+        <members>unfiled$public/Grainger_SFDX_cpU</members>
         <members>unfiled$public/New_Accounts_Report_Public_Grainger_F1O</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
